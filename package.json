@@ -1,0 +1,17 @@
+{
+    "name": "blog",
+    "version": "1.0.0",
+    "description": "An blog create on github",
+    "main": "index.js",
+    "scripts": {
+        "server": "live-server ./",
+        "build": "parcel build ./src/scripts/index.js"
+    },
+    "repository": "none",
+    "author": "cripboy",
+    "license": "MIT",
+    "private": false,
+    "dependencies": {
+        "jquery": "^3.4.1"
+    }
+}

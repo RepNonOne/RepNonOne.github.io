@@ -1,1 +1,8 @@
-# RepNonOne.github.io
+- [x] import resources
+- [x] build page
+- [x] make css
+- [x] page loader
+- [x] components
+- [ ] load post
+- [ ] make a map os posts
+- [ ] make routes with one with more param
